@@ -1,1 +1,2 @@
 Add KAIST(HUBO), IIT(COMAN & WALKMAN), TUM(Johney & Lola) and WASEDA(WABIAN-2L). @2018-02-12
+Delete 3 papers of KAIST, Add 1 papers of TUM.
